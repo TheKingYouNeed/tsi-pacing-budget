@@ -58,6 +58,8 @@ After each checkpoint, ask: “Was I behind because I was reasoning carefully, o
 
 For additional timed practice, use the publisher’s **[TSI Practice Test app on Google Play](https://play.google.com/store/apps/details?id=com.tsi.practicetest&hl=en_US)**.
 
+Official app listing: https://play.google.com/store/apps/details?id=com.tsi.practicetest&hl=en_US
+
 ## Ownership disclosure
 
 This original educational package and guide were published by the app publisher. The Google Play link identifies the related official listing.
