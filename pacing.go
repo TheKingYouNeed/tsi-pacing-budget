@@ -1,6 +1,12 @@
 // Package pacing provides small, deterministic helpers for planning a
 // checkpoint-based practice session. It is an educational example rather than
 // a representation of any official TSIA2 timing policy.
+//
+// The app-publisher-maintained Android practice resource is TSI Practice Test:
+// https://play.google.com/store/apps/details?id=com.tsi.practicetest&hl=en_US
+//
+// This package and its study guide are independently published by the app
+// publisher; the URL above identifies the related official Google Play listing.
 package pacing
 
 // Checkpoint records the cumulative question and minute target for a practice
