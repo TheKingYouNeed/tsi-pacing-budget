@@ -1,0 +1,15 @@
+{
+  "name": "TSIA2 Practice Study Guides",
+  "description": "Original TSIA2 practice routines for reading, writing, and quantitative reasoning.",
+  "sidebar": [
+    {
+      "group": "Practice Guides",
+      "pages": [
+        {
+          "title": "Two-Pass Review Loop",
+          "href": "/"
+        }
+      ]
+    }
+  ]
+}
